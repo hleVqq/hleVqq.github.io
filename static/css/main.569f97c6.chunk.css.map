@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,mBAEI,eAAgB,CAChB,kBACJ,CAEA,IAEI,eACJ,CAEA,OAEI,yBACJ","file":"main.569f97c6.chunk.css","sourcesContent":[".MuiContainer-root\r\n{\r\n    margin-top: 20px;\r\n    margin-bottom: 20px;\r\n}\r\n\r\npre\r\n{\r\n    overflow-x: auto;\r\n}\r\n\r\n.small\r\n{\r\n    font-size: 0.9rem !important;\r\n}"]}
